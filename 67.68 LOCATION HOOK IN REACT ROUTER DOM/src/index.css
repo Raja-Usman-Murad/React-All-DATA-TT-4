@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color:dodgerblue;
+    color: white;
+    text-transform: uppercase;
+}
+a.active-class{
+    color:red;
+    list-style-type: none;
+}
+.style{
+    color: blue;
+    text-decoration: none;
+    font-size: larger;
+}
+.main{
+    border: 2px solid black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    color: white;
+}
+
+
